@@ -446,7 +446,7 @@ Integer,Long,Float,Double,Short,Byte,Character,Boolean (前六个类派生于公
 对于`ArrayList`，尖括号中的类型不允许是基本类型，因此要用到包装器类，例如`Integer`等。
 
 ```java
-var list = new ArrayList<Integet>();
+var list = new ArrayList<Integer>();
 ```
 
 
