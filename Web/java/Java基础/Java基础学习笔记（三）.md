@@ -473,7 +473,7 @@ var list = new ArrayList<Integer>();
 
 这种变换称为自动装箱。
 
-相反的，把`Integet`赋给一个`int`时，会自动拆箱：
+相反的，把`Integer`赋给一个`int`时，会自动拆箱：
 
 ```java
 int n = list.get(0);
